@@ -1,4 +1,4 @@
-# CNN_for_Misogynistic_Tweet_Detection
+# CNN for Misogynistic Tweet Detection
 Convolutional Neural Network (CNN) to Detect Misogynistic Tweets
 
 # Scholarly Publication
