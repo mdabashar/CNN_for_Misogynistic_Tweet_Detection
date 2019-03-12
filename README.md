@@ -13,3 +13,6 @@ Convolutional Neural Network (CNN) to Detect Misogynistic Tweets
 AusDM 2018 Link: https://ausdm18.ausdm.org/accepted-papers/
 Book Link: https://bit.ly/2SoCKLe
 QUT ePrint Link: https://eprints.qut.edu.au/123575/1/paper_47.pdf
+
+# Word Vector download link:
+https://drive.google.com/file/d/1WFwmijBdrtsxqxHclAMet2TMifvj_cYn/view
