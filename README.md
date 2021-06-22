@@ -16,3 +16,6 @@ QUT ePrint Link: https://eprints.qut.edu.au/123575/1/paper_47.pdf
 
 # Word Vector download link:
 https://drive.google.com/file/d/1WFwmijBdrtsxqxHclAMet2TMifvj_cYn/view
+
+# Unofficial PyTorch Implementation (without pretrained wordvector)
+https://github.com/mdabashar/PyTorchPractice/blob/master/PyTorch%20CNN%20for%20Hate%20Speech%20Detection.ipynb
